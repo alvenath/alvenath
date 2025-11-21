@@ -46,5 +46,3 @@ I use these tools and languages regularly for coursework and personal projects, 
 Thanks for visiting! Feel free to check out my pinned repositories below.
 
 
-This version now emphasizes backend development with PHP, MySQL, and JavaScript, which aligns well if your `PromosiiProdukKita` project is a web application.
-
