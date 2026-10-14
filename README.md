@@ -40,7 +40,7 @@ I use these tools and languages regularly for coursework and personal projects, 
 | Platform | Link |
 | :--- | :--- |
 | **LinkedIn** | [https://www.linkedin.com/in/maxiemillian-airell-8149a5247/] |
-| **Portfolio/Personal Site** | https://alvenath.github.io/Portfolio/ |
+| **Portfolio/Personal Site** | [https://alvenath.github.io/Portfolio/] |
 
 ***
 Thanks for visiting! Feel free to check out my pinned repositories below.
